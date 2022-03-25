@@ -96,15 +96,15 @@
     },
     {
       "id": 2,
-      "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576717/img_heroes/marvel-wolverine_pbo110.jpg",
+      "url": "https://res.cloudinary.com/danimel/image/upload/v1641933602/1_u3emjm.jpg",
       "nombre": "Tarea 2",
-      "descripcion": "Ejemplo tarea 2"
+      "descripcion": "Plato de cocinando con amor"
     },
     {
       "id": 3,
-      "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576717/img_heroes/marvel-wolverine_pbo110.jpg",
+      "url": "https://res.cloudinary.com/danimel/image/upload/v1641933603/3_syipj2.jpg",
       "nombre": "Tarea 3",
-      "descripcion": "Ejemplo tarea 3"
+      "descripcion": "Ejemplo Cards  3"
     }
          ]
     
